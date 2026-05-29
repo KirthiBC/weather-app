@@ -2,6 +2,9 @@
 
 A real-time weather application that fetches live data for any city.
 
+## Preview
+![Weather App](Screenshot.png)
+
 ## Features
 - Real-time weather data for any searched city
 - Clean responsive UI
